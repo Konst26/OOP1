@@ -36,7 +36,7 @@ public class Main {
         };
         for (int i = 0; i < customers.length; i++) {
             Customer customer = customers[i];
-            System.out.println("Имя " + customer.getName() + "; возраст " + customer.getAge() + "; телефон " + customer.getPhoneNumber() + "; номер карты " + customer.getCardNumber());
+            System.out.println("Имя1 " + customer.getName() + "; возраст " + customer.getAge() + "; телефон " + customer.getPhoneNumber() + "; номер карты " + customer.getCardNumber());
         }
     }
 }
